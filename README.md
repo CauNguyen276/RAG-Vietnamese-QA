@@ -29,14 +29,14 @@ Xây dựng một hệ thống hỏi đáp tiếng Việt thông minh, giúp ng�
    ```bash
    python app/app.py
    ```
-2. Truy cập giao diện Gradio tại `http://127.0.0.1:7860`.
-3. Tải file PDF vào mục "Tải lên file PDF".
-4. Nhập câu hỏi (ví dụ: "Hồ Chí Minh sinh vào năm nào?")
+2. Truy cập giao diện Gradio
+3. Tải file PDF vào mục "Tải lên file PDF"
+4. Nhập câu hỏi (ví dụ: "Hồ Chí Minh sinh năm nào?")
 5. Nhận câu trả lời và các đoạn văn liên quan
 
 ## Kết Quả Dự Án
 
-**Kết quả thành công** (câu hỏi: "Hồ Chí Minh sinh vào năm nào?"):
+**Kết quả thành công** (câu hỏi: "Hồ Chí Minh sinh năm nào?"):
 ![Kết quả thành công](https://raw.githubusercontent.com/CauNguyen276/RAG-Vietnamese-QA/main/images/result_success.png)
 
 
