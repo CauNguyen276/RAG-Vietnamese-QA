@@ -12,18 +12,6 @@ Xây dựng một hệ thống hỏi đáp tiếng Việt thông minh, giúp ng�
 - **Gradio**: Giao diện người dùng thân thiện
 - **FAISS**: Lập chỉ mục để tìm kiếm nhanh
 
-## Cài Đặt
-1. Cài đặt Python 3.12 và tạo môi trường ảo:
-   ```bash
-   python -m venv venv
-   .\venv\Scripts\Activate.ps1  
-   ```
-2. Cài đặt các thư viện cần thiết:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Tải file PDF mẫu (ví dụ: `data/Chu_tich_Ho_Chi_Minh.pdf`) và đặt vào thư mục `data/`.
-
 ## Cách Sử Dụng
 1. Chạy ứng dụng:
    ```bash
@@ -35,10 +23,8 @@ Xây dựng một hệ thống hỏi đáp tiếng Việt thông minh, giúp ng�
 5. Nhận câu trả lời và các đoạn văn liên quan
 
 ## Kết Quả Dự Án
-
 **Kết quả thành công** (câu hỏi: "Hồ Chí Minh sinh năm nào?"):
 ![Kết quả thành công](https://raw.githubusercontent.com/CauNguyen276/RAG-Vietnamese-QA/main/images/result_success.png)
-
 
 ## Hướng Phát Triển
 - Hỗ trợ thêm nhiều loại tài liệu (Word, text).
