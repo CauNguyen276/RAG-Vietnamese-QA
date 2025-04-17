@@ -16,7 +16,7 @@ Xây dựng một hệ thống hỏi đáp tiếng Việt thông minh, giúp ng�
 1. Cài đặt Python 3.12 và tạo môi trường ảo:
    ```bash
    python -m venv venv
-   .\venv\Scripts\Activate.ps1  # Trên Windows
+   .\venv\Scripts\Activate.ps1  
    ```
 2. Cài đặt các thư viện cần thiết:
    ```bash
