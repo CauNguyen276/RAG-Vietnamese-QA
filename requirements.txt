@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+transformers
+torch
+sentence-transformers
+pymupdf
+gradio
+pyyaml
+numpy
+sentencepiece

@@ -1,0 +1,12 @@
+retriever:
+  model_name: "vinai/phobert-base"
+  index_path: "retriever/index.faiss"
+  metadata_path: "retriever/metadata.pkl"
+  top_k: 3
+generator:
+  model_name: "vinai/bartpho-syllable"
+  max_length: 150
+  num_beams: 5
+data:
+  chunk_size: 500
+  chunk_overlap: 50
