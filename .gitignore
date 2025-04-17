@@ -1,0 +1,21 @@
+# Bỏ qua môi trường ảo
+venv/
+
+# Bỏ qua các file lớn được tạo tự động
+retriever/index.faiss
+retriever/metadata.pkl
+
+# Bỏ qua thư mục chunks
+data/chunks/
+
+# Bỏ qua file PDF tạm thời
+data/uploaded.pdf
+
+# Bỏ qua cache mô hình
+~/.cache/huggingface/
+
+# Bỏ qua thư mục __pycache__
+__pycache__/
+
+# Bỏ qua file ảnh chụp màn hình
+*.png
