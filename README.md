@@ -19,7 +19,7 @@ Xây dựng một hệ thống hỏi đáp tiếng Việt thông minh, giúp ng�
    ```
 2. Truy cập giao diện Gradio
 3. Tải file PDF vào mục "Tải lên file PDF"
-4. Nhập câu hỏi (ví dụ: "Hồ Chí Minh sinh năm nào?")
+4. Nhập câu hỏi (ví dụ: "Chủ tịch Hồ Chí Minh sinh năm nào?")
 5. Nhận câu trả lời và các đoạn văn liên quan
 
 ## Kết Quả Dự Án
