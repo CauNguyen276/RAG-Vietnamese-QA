@@ -23,7 +23,7 @@ Xây dựng một hệ thống hỏi đáp tiếng Việt thông minh, giúp ng�
 5. Nhận câu trả lời và các đoạn văn liên quan
 
 ## Kết Quả Dự Án
-**Kết quả thành công** (câu hỏi: "Hồ Chí Minh sinh năm nào?"):
+**Kết quả thành công** (câu hỏi: "Chủ tịch Hồ Chí Minh sinh năm nào?"):
 ![Kết quả thành công](https://raw.githubusercontent.com/CauNguyen276/RAG-Vietnamese-QA/main/images/result_success.png)
 
 ## Hướng Phát Triển
